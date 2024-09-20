@@ -13,4 +13,4 @@ function App() {
 export default App
 import Footer from "./components/Footer";
 import Manager from "./components/Manager";
-import Navbar from "./components/NAvbar";
+import Navbar from "./components/Navbar";
